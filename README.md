@@ -22,4 +22,11 @@ If you use other programs "<b>pyautogui.moveTo(x,y)</b>" x and y change.
 
 
 
-<a style="a {margin-left: 100px;}" href="https://discord.gg/u5eH8maq"><b>Discord Server</b></a>
+<a class="otuzbir" href="https://discord.gg/u5eH8maq"><b>Discord Server</b></a>
+
+<style>
+  .otuzbir {
+    margin-left: 100px;
+  
+  }
+</style>
