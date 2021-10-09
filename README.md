@@ -2,8 +2,10 @@
 
 
 
-İ am L4V1N14, i coded discord spammer using pyautogui
-
+İ am L4V1N14, i coded discord spammer using pyautogui.
+<br><br><br><br><br><br><br>
+If you use other programs pyautogui.moveTo(x,y) change.
+<br><br><br><br><br><br><br>
 
 
 
